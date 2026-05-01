@@ -1,5 +1,5 @@
 class Stash < Formula
-  desc "TUI for bookmarking, browsing, previewing, and resuming Claude Code and Codex sessions"
+  desc "TUI for bookmarking and resuming Claude Code and Codex sessions"
   homepage "https://github.com/jaredgizersky/stash"
   version "0.1.0"
   license "MIT"
